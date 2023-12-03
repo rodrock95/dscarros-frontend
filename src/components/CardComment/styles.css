@@ -1,0 +1,9 @@
+
+.card-car-comment{
+    border: 1px solid var(--ct-color-bg-tertiary);
+    border-radius: 12px;
+    padding: 20px 20px;
+    background-color: var(--ct-color-bg-primary);
+    color: var(--ct-color-font-secondary);
+    margin: 10px 0;
+}

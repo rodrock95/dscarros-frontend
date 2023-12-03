@@ -1,0 +1,42 @@
+.ct-card-car-text h3{
+    text-align: center;
+    font-size: 20px;
+    color: var(--ct-color-font-primary);
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  @media(min-width: 720px){
+    .ct-card-car-text h3{
+        text-align: center;
+        font-size: 32px;
+        color: var(--ct-color-font-primary);
+      }
+}
+
+.ct-comment-car-text h3{
+    text-align: center;
+    font-size: 20px;
+    color: var(--ct-color-font-primary);
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+
+  @media(min-width: 720px){
+    .ct-comment-car-text h3{
+        text-align: center;
+        font-size: 32px;
+        color: var(--ct-color-font-primary);
+      }
+}
+
+.ct-catalog-cards-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#ct-catalog-section-comment{
+    padding: 20px 15px;
+    background-color: var(--ct-color-bg-secondary);
+}
