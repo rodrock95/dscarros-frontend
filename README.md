@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/1/react)](https://github.com/rodrock95/dscarros-frontend/blob/main/LICENSE)
 
-O DSCarrosTop, abreviatura de Digital Showroom CarrosTop, foi um projeto front-end simples com tecnologia React desenvolvido por mim durante o bootcamp de front-end organizado pela escola [DevSuperior].
+O DSCarrosTop, abreviatura de Digital Showroom CarrosTop, foi um projeto front-end simples com tecnologia React desenvolvido por mim durante o bootcamp de front-end organizado pela escola DevSuperior.
 A ideia principal era consolidar os conhecimentos de organização de componentes, HTML e CSS conforme exposto no presente código. Ao todo tivemos quatro componentes, descritos a seguir:
 
 1) Componente para representar o cabeçalho
