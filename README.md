@@ -13,3 +13,7 @@ A ideia principal era consolidar os conhecimentos de organização de componente
 O design Figma é este: https://www.figma.com/file/SGgxfyEMVs2gr04URFB75E/Desafio-Componentes-React
 
 O projeto foi criado usando o Vite, com responsividade Mobile e Web.
+
+O projeto implantado no netlify é o endereço:
+
+https://carrostop-rodrigo.netlify.app/
