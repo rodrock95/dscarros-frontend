@@ -1,30 +1,15 @@
-# React + TypeScript + Vite
+# DSCarrosTOP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![NPM](https://img.shields.io/npm/1/react)](https://github.com/rodrock95/dscarros-frontend/blob/main/LICENSE)
 
-Currently, two official plugins are available:
+O DSCarrosTop, abreviatura de Digital Showroom CarrosTop, foi um projeto front-end simples com tecnologia React desenvolvido por mim durante o bootcamp de front-end organizado pela escola DevSuperior.
+A ideia principal era consolidar os conhecimentos de organização de componentes, HTML e CSS conforme exposto no presente código. Ao todo tivemos quatro componentes, descritos a seguir:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1) Componente para representar o cabeçalho
+2) Componente para representar o card de carro
+3) Componente para representar o card de comentário
+4) Componente para representar o rodapé
 
-## Expanding the ESLint configuration
+O design Figma é este: https://www.figma.com/file/SGgxfyEMVs2gr04URFB75E/Desafio-Componentes-React
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+O projeto foi criado usando o Vite, com responsividade Mobile e Web.
